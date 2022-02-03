@@ -1,4 +1,4 @@
-### Hi there, I'm Davi! 👋
+## Hi there, I'm Davi! 👋
 
 - 🔭 I’m currently working on backend
 - 🌱 I’m currently learning JavaScript
