@@ -1,7 +1,5 @@
-## Hi there, I'm Davi! 👋
+## Salve, salve rapaziada! 👋
 
-- 🔭 I’m currently working on backend
-- 🌱 I’m currently learning JavaScript
 <div align="center">
   <a href="https://github.com/DaviJP7">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DaviJP7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
