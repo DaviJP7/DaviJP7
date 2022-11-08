@@ -19,8 +19,7 @@
 <!--   <img align="center" alt="Davi-NJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> -->
 <!--   <img align="center" alt="Davi-CI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg"> -->
 <!--   <img align="center" alt="Davi-Tux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> -->
-  <div class="tenor-gif-embed" data-postid="14796708" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><a href="https://tenor.com/view/cat-funny-cat-pc-cat-reading-workaholics-gif-14796708">Cat Funny Cat GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
+  <img align="rigth" heigth="30" width="40" src="https://media.giphy.com/media/112TRnXkSiuGCQ/giphy.gif">
   
   ##
  
