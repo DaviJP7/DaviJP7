@@ -1,4 +1,4 @@
-## Olá ! 👋
+## console.log('Olá 👋')
 
 <div align="center">
   <a href="https://github.com/DaviJP7">
