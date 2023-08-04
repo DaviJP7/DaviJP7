@@ -1,4 +1,4 @@
-## console.log('Olá 👋')
+## bio: undefined
 
 <div align="center">
   <a href="https://github.com/DaviJP7">
